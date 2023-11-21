@@ -56,13 +56,13 @@ body {
 .hero-main-header {
     font-size: 48px;
     font-weight: 900;
-    line-height: 48px;
+    line-height: 1.3em;
     color: #f9faf8;
     margin: 0;
 }
 
 
-.hero-main-secondary {
+.hero-main-text {
     color: #e5e7eb;
     font-size: 18px;
     margin: 24px 0;
