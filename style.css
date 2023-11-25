@@ -159,11 +159,11 @@ body {
 }
 
 .cta {
-    padding: 48px 0;
+    padding: 24px 128px;
     border-radius: 8px;
     background-color: #3882f6;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     align-items: center;
     color: #f9faf8;
 }
@@ -179,11 +179,11 @@ body {
 
 .button-outline {
     background-color: #3882f6;
-    padding: 8px 16px;
+    padding: 8px 32px;
     color: #f9faf8;
     text-decoration: none;
     border-radius: 8px;
     display: inline-block;
-    border: 2px solid #f9faf8;
+    border: 1px solid #f9faf8;
     font-size: 18px;
 }
