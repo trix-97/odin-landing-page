@@ -113,6 +113,26 @@ body {
 .box {
     border: 3px solid #3882f6;
     height: 128px;
-    width: 129px;
+    width: 128px;
     border-radius: 8px;
+}
+
+.quote-container {
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    padding: 64px 0;
+}
+
+.quote p {
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 400;
+}
+
+.quotee {
+    display: block;
+    text-align: right;
+    font-size: 18px;
+    font-weight: 700;
 }
