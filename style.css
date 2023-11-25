@@ -187,3 +187,16 @@ body {
     border: 1px solid #f9faf8;
     font-size: 18px;
 }
+
+.footer-container {
+    background-color: #1f2937;
+    padding: 26px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.footer {
+    color: #f9faf8;
+    text-align: center;
+    font-size: 18px;
+}
